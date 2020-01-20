@@ -1,5 +1,5 @@
-# Github-for-beginners
-A repo to deposit teaching material for Github for Beginners
+# Git and Github for beginners
+A repo to deposit teaching material for "Version control with Git and Github"
 
 **Description**
 
