@@ -2,6 +2,7 @@
 A repo to deposit teaching material for Github for Beginners
 
 **Description**
+
 Sharing code is as important as sharing data for transparency and reproducibility. 
 
 Many analysts and researchers self-learn coding and are not trained in software-engineering standards about how to document code, writing etiquette and testing. However, the fact that code is not written to a high standard should not prevent code sharing. The benefits of open code outweigh the potential unpleasantness experienced by the expert code writer.
