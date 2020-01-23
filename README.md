@@ -15,13 +15,11 @@ A version control system is a tool that manages changes made to the files and di
 
 Git, together with GitHub, is one such VCS tool. 
 
-## Intended audience
+**Intended audience**
 
 The target audience for this training is someone who analyses data by writing code (e.g. in R or Python), at intermediate to advanced level, but is new to version control systems.
 
-Git was built to manage development of the Linux kernel, which is probably very different from what the intended audience does. Most people need a small subset of Git’s functionality and that is the focus of this workshop. At the end of this document there are references that give a more comprehensive explanation of Git uses.
-
-Pre-requisites are:
+**Pre-requisites**
 
 * Have a good grasp of files and directories and be generally knowledgeable about where things live on your computer.
 
