@@ -8,9 +8,11 @@ Publications that make the used code available have generally higher impact than
 Learners will be able to use Github to create, manage and collaborate on projects. 
 
 **Lead Developer**  
+
 Sonia Mazzi
 
 **Course Reviewer(s)**  
+
 Pending
 
 **Intended Audience**  
