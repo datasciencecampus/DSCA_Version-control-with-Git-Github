@@ -4,7 +4,7 @@
 **Course Summary** 
 Publications that make the used code available have generally higher impact than publications where code is not available. One important tool for code quality and code sharing is a version control system (VCS). A version control system is a tool that manages changes made to the files and directories in a project. Git, together with GitHub, is one such VCS tool.
 
-**Learning Objective**  
+**Course Objective**  
 Learners will be able to use Github to create, manage and collaborate on projects. 
 
 **Lead Developer**  
