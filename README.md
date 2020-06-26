@@ -1,6 +1,10 @@
 # Version Control with Git: Github
 ### Version 1.0
 
+**Course Duration**
+
+4 Hours
+
 **Course Summary** 
 
 Publications that make the used code available have generally higher impact than publications where code is not available. One important tool for code quality and code sharing is a version control system (VCS). A version control system is a tool that manages changes made to the files and directories in a project. Git, together with GitHub, is one such VCS tool.
